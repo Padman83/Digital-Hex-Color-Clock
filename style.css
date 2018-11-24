@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch');
+
+body {
+    font-family: 'Chakra Petch', sans-serif;
+    margin-top: 260px;
+    text-align: center;
+    color: ghostwhite;
+}
+
+#clock {
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 350;
+    font-size: 150px;
+}
+
+#hex-color {
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 200;
+    font-size: 50px;
+    padding-bottom: 40px;
+}
