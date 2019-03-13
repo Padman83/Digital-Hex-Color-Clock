@@ -1,2 +1,2 @@
-Digital Hex Color Clock
+# Digital Hex Color Clock
 A Web app written in Vanilla JavaScript.
