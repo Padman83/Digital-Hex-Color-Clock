@@ -1,20 +1,20 @@
-@import url('https://fonts.googleapis.com/css?family=Chakra+Petch');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 
 body {
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Roboto Mono', monospace;
     margin-top: 260px;
     text-align: center;
-    color: ghostwhite;
+    color: whitesmoke;
 }
 
 #clock {
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Roboto Mono', monospace;
     font-weight: 350;
     font-size: 150px;
 }
 
 #hex-color {
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Roboto Mono', monospace;
     font-weight: 200;
     font-size: 50px;
     padding-bottom: 40px;
