@@ -10,12 +10,12 @@ body {
 #clock {
     font-family: 'Audiowide', cursive;
     font-weight: 350;
-    font-size: 100px;
+    font-size: 80px;
 }
 
 #hex-color {
     font-family: 'Audiowide', cursive;
     font-weight: 200;
-    font-size: 50px;
+    font-size: 30px;
     padding-bottom: 40px;
 }
