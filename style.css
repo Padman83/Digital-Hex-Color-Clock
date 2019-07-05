@@ -1,20 +1,20 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
 
 body {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Audiowide', cursive;
     margin-top: 260px;
     text-align: center;
     color: whitesmoke;
 }
 
 #clock {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Audiowide', cursive;
     font-weight: 350;
-    font-size: 150px;
+    font-size: 100px;
 }
 
 #hex-color {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Audiowide', cursive;
     font-weight: 200;
     font-size: 50px;
     padding-bottom: 40px;
