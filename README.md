@@ -5,13 +5,13 @@
 * Cross-Platform
 * [Visual Studio Code] (https://code.visualstudio.com)
 
-### Built With 
+### 🛠️ Built with:
 
 * [Bootstrap] (https://getbootstrap.com)
 * [Google Fonts] (https://fonts.google.com/)
 * [jQuery] (https://https://jquery.com)
 * [cdnjs] (https://cdnjs.com)
 
-## Contact
+### 🔗 Links:
 
 Project Link: [https://github.com/Padman83/Digital-Hex-Color-Clock] 
