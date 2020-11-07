@@ -1,6 +1,7 @@
-![screencapture-padman83-github-io-Digital-Hex-Color-Clock-2019-08-06-21_00_37](https://user-images.githubusercontent.com/45048950/62834642-ff355880-bc81-11e9-9693-48144031c3c6.png)
+![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/98445573-4fd08580-2153-11eb-9871-bca99251a5cb.gif)
 
-### 🧰 System Requirements
+
+### 🧰 System Requirements:
 
 * Cross-Platform
 * [Visual Studio Code] (https://code.visualstudio.com)
